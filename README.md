@@ -4,7 +4,7 @@ This is a simple note-taking app built with React. The app allows users to add, 
 
 ## Screenshots
 
-![Homepage](/output/output1.png.png)
+![Homepage](/output/output1.png)
 *Homepage*
 
 ## Features
